@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
  <bean id="test" class="com.demo.testDemo" lazy-init="true" scope="singleton" >
-<property name="message" value="Welcome to IntelliJ"/>
+<property name="message" value="Welcome to IntelliJ Idea"/>
 
  </bean>
 
